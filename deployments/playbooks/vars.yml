@@ -23,3 +23,4 @@ ruby_version: 2.7.6
 
 # Variables for Node.js installation.
 nodejs_install_npm_user: root
+#sample code

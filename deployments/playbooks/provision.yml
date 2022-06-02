@@ -7,7 +7,7 @@
 
   roles:
     - geerlingguy.git
-    - geerlingguy.nodejs
+    - geerlingguy.nodejs # nodes
     - geerlingguy.ruby
     - geerlingguy.passenger
 
